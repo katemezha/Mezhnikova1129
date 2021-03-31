@@ -1,0 +1,59 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Иван",
+      "surname": "Иванов",
+      "patronymic": "Иванович",
+      "phone": 8916344469,
+      "email": "ivan@gmail.com",
+      "birthday": "2000-01-01",
+      "group": "181",
+      "direction": 0
+    },
+    {
+      "name": "Петр",
+      "surname": "Петрович",
+      "patronymic": "Петрович",
+      "phone": 789995567,
+      "email": "petr@gmail.com",
+      "birthday": "1976-09-15",
+      "direction": 1,
+      "group": "191",
+      "id": 3
+    },
+    {
+      "name": "Екатерина",
+      "surname": "Межникова",
+      "patronymic": "Алексеевна",
+      "phone": 11253612,
+      "email": "katmegnik@gmail.com",
+      "birthday": "2000-07-12",
+      "direction": 0,
+      "group": "191-322",
+      "id": 4
+    },
+    {
+      "name": "mmm",
+      "surname": "dd",
+      "patronymic": null,
+      "phone": "dd",
+      "email": "dd",
+      "birthday": "2021-03-18",
+      "direction": 1,
+      "group": "dd",
+      "id": 5
+    },
+    {
+      "name": "а",
+      "surname": "я",
+      "patronymic": "а",
+      "phone": "999",
+      "email": "ьь",
+      "birthday": "2021-03-12",
+      "direction": 2,
+      "group": "ьь",
+      "id": 6
+    }
+  ]
+}
